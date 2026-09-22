@@ -39,4 +39,5 @@ PORT=3000
 
 ## Деплой
 
-Посилання на Render:
+Посилання на Render: https://nodejs-hw-ek9q.onrender.com
+
